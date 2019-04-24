@@ -1,0 +1,2 @@
+pyodbc==4.0.26
+sparse-dot-topn==0.2.2
