@@ -1,0 +1,786 @@
+Perplexity:  2 -8.352521822534671
+Coherence Score:  2 0.3060757870942656
+[(0,
+  '0.044*"movie" + 0.017*"film" + 0.012*"watch" + 0.010*"really" + '
+  '0.009*"time" + 0.007*"show" + 0.007*"well" + 0.007*"bad" + 0.007*"great" + '
+  '0.006*"character"'),
+ (1,
+  '0.023*"film" + 0.006*"story" + 0.005*"character" + 0.005*"man" + '
+  '0.005*"life" + 0.005*"play" + 0.005*"time" + 0.004*"well" + 0.004*"love" + '
+  '0.004*"great"')]
+END
+
+Perplexity:  4 -8.36701339108324
+Coherence Score:  4 0.3047026228337144
+[(0,
+  '0.032*"film" + 0.010*"scene" + 0.007*"horror" + 0.006*"look" + 0.006*"plot" '
+  '+ 0.005*"kill" + 0.005*"end" + 0.005*"action" + 0.004*"bad" + 0.004*"well"'),
+ (1,
+  '0.030*"film" + 0.010*"story" + 0.008*"life" + 0.008*"character" + '
+  '0.006*"time" + 0.005*"people" + 0.005*"world" + 0.005*"well" + 0.004*"way" '
+  '+ 0.004*"man"'),
+ (2,
+  '0.011*"play" + 0.009*"film" + 0.006*"man" + 0.006*"role" + '
+  '0.006*"performance" + 0.005*"great" + 0.005*"star" + 0.005*"well" + '
+  '0.004*"young" + 0.004*"love"'),
+ (3,
+  '0.069*"movie" + 0.018*"watch" + 0.013*"really" + 0.013*"time" + '
+  '0.012*"show" + 0.010*"great" + 0.010*"film" + 0.009*"well" + 0.009*"bad" + '
+  '0.009*"character"')]
+END
+
+Perplexity:  6 -8.435447020087633
+Coherence Score:  6 0.3267117820159861
+[(0,
+  '0.028*"bad" + 0.020*"film" + 0.018*"movie" + 0.009*"look" + 0.008*"thing" + '
+  '0.007*"plot" + 0.007*"time" + 0.007*"act" + 0.007*"people" + '
+  '0.006*"minute"'),
+ (1,
+  '0.011*"life" + 0.007*"people" + 0.007*"man" + 0.007*"world" + 0.005*"story" '
+  '+ 0.005*"live" + 0.005*"war" + 0.004*"time" + 0.004*"show" + 0.004*"love"'),
+ (2,
+  '0.013*"play" + 0.007*"man" + 0.006*"role" + 0.005*"star" + 0.005*"love" + '
+  '0.005*"young" + 0.004*"performance" + 0.004*"year" + 0.004*"great" + '
+  '0.004*"old"'),
+ (3,
+  '0.086*"movie" + 0.021*"watch" + 0.016*"show" + 0.014*"really" + '
+  '0.014*"time" + 0.013*"great" + 0.011*"love" + 0.010*"well" + '
+  '0.008*"character" + 0.008*"first"'),
+ (4,
+  '0.012*"horror" + 0.010*"kill" + 0.008*"scene" + 0.007*"man" + 0.006*"end" + '
+  '0.005*"guy" + 0.005*"girl" + 0.005*"look" + 0.005*"movie" + 0.005*"dead"'),
+ (5,
+  '0.074*"film" + 0.014*"character" + 0.013*"story" + 0.011*"well" + '
+  '0.009*"scene" + 0.008*"great" + 0.007*"much" + 0.007*"performance" + '
+  '0.007*"work" + 0.007*"time"')]
+END
+
+Perplexity:  8 -8.642749979395468
+Coherence Score:  8 0.3305610481055089
+[(0,
+  '0.035*"film" + 0.018*"bad" + 0.009*"people" + 0.007*"thing" + 0.007*"look" '
+  '+ 0.007*"nothing" + 0.006*"minute" + 0.005*"something" + 0.005*"ever" + '
+  '0.005*"scene"'),
+ (1,
+  '0.014*"life" + 0.009*"people" + 0.009*"story" + 0.008*"world" + '
+  '0.007*"movie" + 0.006*"love" + 0.006*"man" + 0.006*"live" + 0.006*"way" + '
+  '0.005*"time"'),
+ (2,
+  '0.017*"play" + 0.010*"love" + 0.009*"role" + 0.007*"young" + 0.007*"man" + '
+  '0.007*"performance" + 0.006*"girl" + 0.006*"woman" + 0.006*"star" + '
+  '0.005*"song"'),
+ (3,
+  '0.130*"movie" + 0.023*"watch" + 0.019*"really" + 0.015*"time" + 0.012*"bad" '
+  '+ 0.011*"great" + 0.011*"well" + 0.009*"love" + 0.008*"story" + '
+  '0.008*"funny"'),
+ (4,
+  '0.019*"horror" + 0.013*"kill" + 0.007*"end" + 0.007*"look" + 0.007*"zombie" '
+  '+ 0.007*"dead" + 0.007*"killer" + 0.006*"scene" + 0.006*"girl" + '
+  '0.006*"house"'),
+ (5,
+  '0.079*"film" + 0.014*"character" + 0.013*"story" + 0.013*"well" + '
+  '0.009*"great" + 0.008*"scene" + 0.008*"time" + 0.008*"much" + 0.007*"work" '
+  '+ 0.007*"performance"'),
+ (6,
+  '0.051*"show" + 0.022*"series" + 0.018*"episode" + 0.015*"tv" + '
+  '0.015*"watch" + 0.012*"kid" + 0.012*"time" + 0.010*"great" + 0.010*"first" '
+  '+ 0.010*"year"'),
+ (7,
+  '0.010*"man" + 0.005*"action" + 0.005*"fight" + 0.004*"time" + 0.004*"hero" '
+  '+ 0.003*"back" + 0.003*"kill" + 0.003*"black" + 0.003*"big" + '
+  '0.003*"scene"')]
+END
+
+Perplexity:  10 -9.180163078556543
+Coherence Score:  10 0.34770159377358545
+[(0,
+  '0.038*"film" + 0.021*"people" + 0.007*"thing" + 0.006*"documentary" + '
+  '0.006*"point" + 0.006*"show" + 0.006*"work" + 0.006*"black" + '
+  '0.006*"something" + 0.005*"time"'),
+ (1,
+  '0.016*"life" + 0.011*"story" + 0.009*"character" + 0.008*"man" + '
+  '0.008*"world" + 0.008*"movie" + 0.006*"love" + 0.006*"war" + 0.006*"book" + '
+  '0.005*"live"'),
+ (2,
+  '0.019*"play" + 0.010*"role" + 0.008*"man" + 0.008*"love" + '
+  '0.007*"performance" + 0.007*"star" + 0.007*"young" + 0.006*"song" + '
+  '0.005*"woman" + 0.005*"great"'),
+ (3,
+  '0.070*"funny" + 0.063*"comedy" + 0.031*"laugh" + 0.023*"humor" + '
+  '0.021*"game" + 0.021*"joke" + 0.019*"hilarious" + 0.017*"fun" + '
+  '0.013*"animation" + 0.008*"disney"'),
+ (4,
+  '0.021*"horror" + 0.011*"kill" + 0.011*"girl" + 0.010*"film" + 0.010*"scene" '
+  '+ 0.009*"woman" + 0.008*"house" + 0.008*"murder" + 0.007*"dead" + '
+  '0.007*"killer"'),
+ (5,
+  '0.099*"film" + 0.017*"story" + 0.015*"well" + 0.015*"great" + '
+  '0.012*"character" + 0.010*"time" + 0.010*"scene" + 0.009*"performance" + '
+  '0.008*"really" + 0.008*"work"'),
+ (6,
+  '0.051*"show" + 0.020*"series" + 0.019*"watch" + 0.016*"episode" + '
+  '0.015*"time" + 0.014*"kid" + 0.013*"tv" + 0.013*"love" + 0.012*"great" + '
+  '0.012*"first"'),
+ (7,
+  '0.010*"man" + 0.007*"action" + 0.006*"fight" + 0.005*"kill" + 0.005*"time" '
+  '+ 0.005*"back" + 0.005*"scene" + 0.004*"look" + 0.004*"hero" + 0.004*"guy"'),
+ (8,
+  '0.155*"movie" + 0.025*"watch" + 0.020*"really" + 0.018*"bad" + 0.015*"time" '
+  '+ 0.010*"well" + 0.010*"people" + 0.010*"thing" + 0.009*"end" + '
+  '0.009*"ever"'),
+ (9,
+  '0.018*"character" + 0.016*"bad" + 0.014*"original" + 0.013*"plot" + '
+  '0.010*"version" + 0.009*"much" + 0.009*"script" + 0.009*"look" + '
+  '0.008*"film" + 0.008*"act"')]
+END
+
+Perplexity:  11 -9.594875736665912
+Coherence Score:  11 0.3741126353500306
+[(0,
+  '0.020*"people" + 0.016*"war" + 0.013*"american" + 0.010*"show" + '
+  '0.010*"world" + 0.009*"film" + 0.008*"documentary" + 0.007*"country" + '
+  '0.006*"history" + 0.006*"black"'),
+ (1,
+  '0.020*"story" + 0.016*"life" + 0.014*"character" + 0.012*"love" + '
+  '0.009*"movie" + 0.008*"book" + 0.008*"man" + 0.006*"world" + 0.006*"way" + '
+  '0.006*"time"'),
+ (2,
+  '0.024*"play" + 0.015*"role" + 0.015*"great" + 0.012*"performance" + '
+  '0.011*"star" + 0.008*"song" + 0.008*"actor" + 0.008*"cast" + 0.008*"well" + '
+  '0.007*"music"'),
+ (3,
+  '0.055*"show" + 0.027*"funny" + 0.027*"series" + 0.025*"comedy" + '
+  '0.023*"episode" + 0.016*"watch" + 0.013*"character" + 0.013*"tv" + '
+  '0.012*"laugh" + 0.012*"great"'),
+ (4,
+  '0.015*"scene" + 0.011*"guy" + 0.011*"man" + 0.010*"look" + 0.009*"woman" + '
+  '0.008*"end" + 0.007*"girl" + 0.007*"thing" + 0.006*"start" + 0.006*"way"'),
+ (5,
+  '0.103*"film" + 0.013*"well" + 0.013*"character" + 0.011*"scene" + '
+  '0.010*"story" + 0.009*"much" + 0.008*"time" + 0.008*"work" + 0.007*"really" '
+  '+ 0.007*"great"'),
+ (6,
+  '0.028*"family" + 0.022*"love" + 0.021*"child" + 0.018*"kid" + 0.017*"young" '
+  '+ 0.017*"life" + 0.017*"father" + 0.015*"girl" + 0.013*"friend" + '
+  '0.013*"boy"'),
+ (7,
+  '0.012*"man" + 0.009*"action" + 0.008*"kill" + 0.006*"fight" + '
+  '0.006*"murder" + 0.006*"hero" + 0.005*"find" + 0.005*"police" + '
+  '0.005*"crime" + 0.004*"battle"'),
+ (8,
+  '0.129*"movie" + 0.023*"watch" + 0.021*"bad" + 0.018*"really" + 0.015*"time" '
+  '+ 0.011*"people" + 0.010*"well" + 0.009*"act" + 0.009*"thing" + '
+  '0.009*"ever"'),
+ (9,
+  '0.038*"dvd" + 0.037*"original" + 0.034*"version" + 0.023*"game" + '
+  '0.023*"release" + 0.020*"video" + 0.012*"first" + 0.012*"year" + '
+  '0.010*"match" + 0.010*"sound"'),
+ (10,
+  '0.045*"horror" + 0.016*"zombie" + 0.012*"scary" + 0.012*"blood" + '
+  '0.012*"kill" + 0.011*"killer" + 0.011*"monster" + 0.010*"gore" + '
+  '0.009*"dead" + 0.008*"creepy"')]
+END
+
+Perplexity:  12 -9.955069534543991
+Coherence Score:  12 0.3856130980676946
+[(0,
+  '0.030*"people" + 0.011*"world" + 0.009*"show" + 0.009*"documentary" + '
+  '0.008*"american" + 0.007*"question" + 0.007*"point" + 0.007*"fact" + '
+  '0.006*"believe" + 0.006*"message"'),
+ (1,
+  '0.022*"life" + 0.018*"story" + 0.016*"love" + 0.015*"character" + '
+  '0.009*"family" + 0.009*"man" + 0.008*"young" + 0.007*"book" + 0.007*"live" '
+  '+ 0.006*"father"'),
+ (2,
+  '0.028*"play" + 0.018*"role" + 0.018*"great" + 0.016*"performance" + '
+  '0.012*"star" + 0.012*"actor" + 0.011*"cast" + 0.010*"well" + 0.010*"song" + '
+  '0.008*"music"'),
+ (3,
+  '0.077*"funny" + 0.065*"comedy" + 0.047*"laugh" + 0.026*"humor" + '
+  '0.023*"joke" + 0.021*"hilarious" + 0.020*"animation" + 0.016*"fun" + '
+  '0.014*"disney" + 0.013*"animate"'),
+ (4,
+  '0.015*"girl" + 0.012*"woman" + 0.012*"man" + 0.012*"scene" + 0.011*"end" + '
+  '0.011*"guy" + 0.009*"kill" + 0.008*"friend" + 0.007*"find" + 0.007*"start"'),
+ (5,
+  '0.104*"film" + 0.012*"well" + 0.012*"story" + 0.011*"character" + '
+  '0.011*"scene" + 0.010*"time" + 0.009*"much" + 0.008*"work" + '
+  '0.007*"director" + 0.007*"great"'),
+ (6,
+  '0.071*"show" + 0.032*"series" + 0.025*"episode" + 0.022*"tv" + '
+  '0.022*"watch" + 0.017*"time" + 0.015*"first" + 0.014*"year" + 0.014*"dvd" + '
+  '0.011*"still"'),
+ (7,
+  '0.013*"man" + 0.009*"black" + 0.008*"white" + 0.007*"town" + 0.006*"find" + '
+  '0.005*"western" + 0.005*"set" + 0.005*"local" + 0.004*"name" + '
+  '0.004*"city"'),
+ (8,
+  '0.153*"movie" + 0.027*"watch" + 0.022*"really" + 0.017*"time" + '
+  '0.013*"well" + 0.013*"great" + 0.012*"people" + 0.011*"story" + '
+  '0.010*"love" + 0.010*"thing"'),
+ (9,
+  '0.037*"bad" + 0.019*"film" + 0.012*"plot" + 0.012*"act" + 0.011*"look" + '
+  '0.010*"script" + 0.008*"character" + 0.007*"minute" + 0.007*"scene" + '
+  '0.007*"actor"'),
+ (10,
+  '0.050*"horror" + 0.017*"zombie" + 0.014*"scary" + 0.013*"blood" + '
+  '0.012*"gore" + 0.011*"killer" + 0.011*"monster" + 0.010*"kill" + '
+  '0.010*"dead" + 0.009*"creepy"'),
+ (11,
+  '0.030*"war" + 0.025*"game" + 0.019*"fight" + 0.019*"action" + '
+  '0.013*"battle" + 0.011*"soldier" + 0.009*"hero" + 0.009*"world" + '
+  '0.009*"match" + 0.009*"german"')]
+END
+
+
+Perplexity:  13 -10.376986692033551
+Coherence Score:  13 0.40675528720812026
+[(0,
+  '0.023*"people" + 0.016*"war" + 0.015*"american" + 0.014*"world" + '
+  '0.009*"show" + 0.008*"documentary" + 0.008*"history" + 0.008*"country" + '
+  '0.006*"black" + 0.006*"live"'),
+ (1,
+  '0.030*"story" + 0.026*"character" + 0.013*"life" + 0.009*"movie" + '
+  '0.009*"feel" + 0.009*"way" + 0.009*"love" + 0.008*"well" + 0.007*"book" + '
+  '0.007*"time"'),
+ (2,
+  '0.029*"play" + 0.019*"role" + 0.018*"performance" + 0.017*"great" + '
+  '0.014*"actor" + 0.013*"well" + 0.013*"cast" + 0.012*"star" + 0.008*"song" + '
+  '0.007*"give"'),
+ (3,
+  '0.121*"movie" + 0.032*"watch" + 0.022*"time" + 0.021*"great" + '
+  '0.018*"really" + 0.017*"love" + 0.014*"funny" + 0.011*"enjoy" + '
+  '0.011*"people" + 0.010*"well"'),
+ (4,
+  '0.019*"family" + 0.018*"girl" + 0.018*"young" + 0.017*"woman" + '
+  '0.017*"father" + 0.014*"man" + 0.014*"life" + 0.012*"child" + '
+  '0.012*"friend" + 0.011*"son"'),
+ (5,
+  '0.148*"film" + 0.011*"scene" + 0.010*"time" + 0.010*"well" + '
+  '0.009*"director" + 0.009*"work" + 0.008*"much" + 0.006*"plot" + '
+  '0.006*"quite" + 0.006*"first"'),
+ (6,
+  '0.144*"show" + 0.081*"series" + 0.060*"episode" + 0.040*"tv" + 0.036*"game" '
+  '+ 0.025*"season" + 0.020*"television" + 0.014*"first" + 0.014*"cartoon" + '
+  '0.011*"new"'),
+ (7,
+  '0.017*"man" + 0.015*"action" + 0.013*"murder" + 0.012*"kill" + '
+  '0.009*"crime" + 0.009*"hero" + 0.008*"cop" + 0.007*"police" + 0.007*"fight" '
+  '+ 0.006*"western"'),
+ (8,
+  '0.055*"movie" + 0.036*"bad" + 0.017*"really" + 0.015*"act" + 0.014*"plot" + '
+  '0.012*"character" + 0.012*"thing" + 0.012*"look" + 0.011*"end" + '
+  '0.010*"well"'),
+ (9,
+  '0.078*"original" + 0.066*"version" + 0.035*"dvd" + 0.029*"animation" + '
+  '0.022*"voice" + 0.022*"release" + 0.020*"disney" + 0.019*"animate" + '
+  '0.017*"video" + 0.015*"sequel"'),
+ (10,
+  '0.051*"horror" + 0.022*"zombie" + 0.016*"kill" + 0.015*"blood" + '
+  '0.014*"scary" + 0.012*"gore" + 0.011*"dead" + 0.011*"killer" + '
+  '0.010*"creepy" + 0.010*"ghost"'),
+ (11,
+  '0.013*"scene" + 0.011*"look" + 0.009*"back" + 0.009*"man" + 0.008*"car" + '
+  '0.008*"head" + 0.008*"guy" + 0.006*"face" + 0.005*"time" + 0.005*"dog"'),
+ (12,
+  '0.026*"earth" + 0.025*"band" + 0.022*"space" + 0.022*"human" + '
+  '0.020*"sci_fi" + 0.016*"planet" + 0.016*"alien" + 0.013*"animal" + '
+  '0.013*"scientist" + 0.012*"ship"')]
+END
+
+
+Perplexity:  14 -10.74313907598339
+Coherence Score:  14 0.39356793006200835
+[(0,
+  '0.020*"thing" + 0.018*"really" + 0.015*"guy" + 0.015*"look" + 0.015*"end" + '
+  '0.013*"people" + 0.013*"scene" + 0.012*"way" + 0.011*"something" + '
+  '0.010*"happen"'),
+ (1,
+  '0.035*"story" + 0.029*"character" + 0.012*"life" + 0.011*"love" + '
+  '0.010*"book" + 0.009*"feel" + 0.008*"way" + 0.006*"end" + 0.006*"time" + '
+  '0.006*"find"'),
+ (2,
+  '0.020*"song" + 0.017*"music" + 0.014*"play" + 0.014*"star" + 0.012*"dance" '
+  '+ 0.010*"year" + 0.009*"musical" + 0.009*"match" + 0.007*"big" + '
+  '0.007*"number"'),
+ (3,
+  '0.054*"show" + 0.032*"series" + 0.032*"funny" + 0.028*"comedy" + '
+  '0.023*"episode" + 0.018*"watch" + 0.015*"tv" + 0.013*"time" + 0.013*"laugh" '
+  '+ 0.012*"first"'),
+ (4,
+  '0.024*"family" + 0.023*"young" + 0.022*"love" + 0.020*"woman" + '
+  '0.020*"girl" + 0.020*"father" + 0.018*"life" + 0.017*"child" + '
+  '0.015*"friend" + 0.015*"man"'),
+ (5,
+  '0.146*"film" + 0.012*"time" + 0.011*"scene" + 0.011*"well" + 0.009*"much" + '
+  '0.009*"work" + 0.008*"director" + 0.007*"first" + 0.006*"quite" + '
+  '0.006*"watch"'),
+ (6,
+  '0.045*"great" + 0.040*"performance" + 0.037*"actor" + 0.035*"play" + '
+  '0.031*"role" + 0.027*"well" + 0.023*"cast" + 0.021*"character" + '
+  '0.018*"act" + 0.017*"excellent"'),
+ (7,
+  '0.018*"man" + 0.007*"kill" + 0.007*"murder" + 0.006*"find" + 0.006*"play" + '
+  '0.006*"action" + 0.005*"crime" + 0.005*"turn" + 0.005*"town" + 0.005*"cop"'),
+ (8,
+  '0.212*"movie" + 0.034*"watch" + 0.021*"time" + 0.018*"really" + '
+  '0.012*"well" + 0.012*"great" + 0.011*"love" + 0.010*"people" + '
+  '0.010*"first" + 0.010*"story"'),
+ (9,
+  '0.066*"bad" + 0.022*"act" + 0.020*"plot" + 0.015*"script" + 0.011*"actor" + '
+  '0.011*"terrible" + 0.011*"waste" + 0.010*"poor" + 0.010*"awful" + '
+  '0.009*"character"'),
+ (10,
+  '0.052*"horror" + 0.017*"zombie" + 0.014*"scary" + 0.013*"blood" + '
+  '0.012*"kill" + 0.012*"gore" + 0.011*"killer" + 0.010*"creepy" + '
+  '0.009*"house" + 0.009*"ghost"'),
+ (11,
+  '0.035*"game" + 0.030*"war" + 0.017*"fight" + 0.015*"soldier" + '
+  '0.014*"battle" + 0.012*"space" + 0.012*"world" + 0.012*"human" + '
+  '0.011*"action" + 0.011*"sci_fi"'),
+ (12,
+  '0.026*"people" + 0.015*"life" + 0.015*"world" + 0.015*"show" + '
+  '0.009*"american" + 0.009*"live" + 0.008*"real" + 0.008*"documentary" + '
+  '0.006*"believe" + 0.006*"history"'),
+ (13,
+  '0.100*"version" + 0.058*"dvd" + 0.053*"black" + 0.044*"original" + '
+  '0.044*"white" + 0.032*"dog" + 0.027*"cat" + 0.026*"release" + '
+  '0.022*"remake" + 0.021*"christmas"')]
+END
+
+
+Perplexity:  15 -10.92100915179716
+Coherence Score:  15 0.36864711616231666
+[(0,
+  '0.023*"people" + 0.011*"world" + 0.007*"film" + 0.007*"point" + 0.007*"way" '
+  '+ 0.007*"fact" + 0.006*"thing" + 0.006*"documentary" + 0.006*"live" + '
+  '0.005*"life"'),
+ (1,
+  '0.033*"story" + 0.031*"character" + 0.018*"life" + 0.017*"love" + '
+  '0.013*"movie" + 0.010*"feel" + 0.009*"book" + 0.009*"well" + 0.008*"way" + '
+  '0.007*"great"'),
+ (2,
+  '0.030*"play" + 0.025*"great" + 0.020*"role" + 0.017*"performance" + '
+  '0.014*"actor" + 0.013*"star" + 0.013*"cast" + 0.012*"well" + 0.011*"music" '
+  '+ 0.011*"song"'),
+ (3,
+  '0.094*"funny" + 0.085*"comedy" + 0.054*"laugh" + 0.032*"humor" + '
+  '0.026*"joke" + 0.026*"hilarious" + 0.026*"animation" + 0.019*"fun" + '
+  '0.016*"cartoon" + 0.015*"animate"'),
+ (4,
+  '0.021*"girl" + 0.018*"woman" + 0.018*"man" + 0.012*"friend" + 0.011*"find" '
+  '+ 0.011*"young" + 0.010*"wife" + 0.010*"end" + 0.009*"old" + 0.008*"boy"'),
+ (5,
+  '0.138*"film" + 0.013*"well" + 0.012*"scene" + 0.011*"time" + 0.010*"much" + '
+  '0.009*"work" + 0.009*"plot" + 0.008*"director" + 0.007*"really" + '
+  '0.007*"first"'),
+ (6,
+  '0.114*"show" + 0.044*"series" + 0.033*"episode" + 0.029*"tv" + '
+  '0.028*"watch" + 0.020*"game" + 0.019*"first" + 0.017*"time" + '
+  '0.013*"season" + 0.012*"year"'),
+ (7,
+  '0.008*"man" + 0.007*"time" + 0.006*"back" + 0.006*"set" + 0.005*"doctor" + '
+  '0.005*"human" + 0.005*"find" + 0.005*"space" + 0.005*"look" + 0.005*"turn"'),
+ (8,
+  '0.138*"movie" + 0.026*"watch" + 0.022*"really" + 0.019*"bad" + 0.016*"time" '
+  '+ 0.012*"well" + 0.011*"thing" + 0.010*"people" + 0.009*"great" + '
+  '0.009*"act"'),
+ (9,
+  '0.162*"original" + 0.097*"version" + 0.043*"sequel" + 0.036*"batman" + '
+  '0.030*"match" + 0.029*"remake" + 0.027*"favourite" + 0.022*"luke" + '
+  '0.016*"trilogy" + 0.014*"superman"'),
+ (10,
+  '0.049*"horror" + 0.017*"zombie" + 0.014*"scary" + 0.014*"killer" + '
+  '0.013*"blood" + 0.011*"gore" + 0.010*"kill" + 0.010*"flick" + 0.010*"dead" '
+  '+ 0.009*"creepy"'),
+ (11,
+  '0.047*"war" + 0.027*"american" + 0.023*"black" + 0.020*"white" + '
+  '0.018*"western" + 0.017*"man" + 0.017*"country" + 0.016*"soldier" + '
+  '0.013*"german" + 0.013*"show"'),
+ (12,
+  '0.043*"scott" + 0.036*"tom" + 0.034*"sport" + 0.030*"dan" + 0.017*"cup" + '
+  '0.017*"sullivan" + 0.016*"jackson" + 0.014*"manager" + 0.014*"ford" + '
+  '0.014*"simon"'),
+ (13,
+  '0.107*"family" + 0.080*"child" + 0.053*"kid" + 0.029*"father" + 0.028*"son" '
+  '+ 0.027*"adult" + 0.021*"dog" + 0.020*"parent" + 0.015*"mother" + '
+  '0.014*"young"'),
+ (14,
+  '0.031*"action" + 0.029*"scene" + 0.023*"fight" + 0.020*"kill" + 0.019*"guy" '
+  '+ 0.013*"shoot" + 0.013*"hero" + 0.010*"gun" + 0.010*"cop" + 0.010*"car"')]
+END
+
+
+Perplexity:  16 -10.857529714715296
+Coherence Score:  16 0.4246900433582756
+[(0,
+  '0.027*"people" + 0.009*"point" + 0.009*"fact" + 0.009*"way" + '
+  '0.008*"character" + 0.008*"thing" + 0.007*"american" + 0.007*"real" + '
+  '0.007*"understand" + 0.007*"show"'),
+ (1,
+  '0.083*"book" + 0.040*"version" + 0.040*"read" + 0.034*"novel" + '
+  '0.027*"story" + 0.017*"adaptation" + 0.012*"passion" + 0.012*"king" + '
+  '0.011*"base" + 0.010*"page"'),
+ (2,
+  '0.033*"play" + 0.021*"role" + 0.015*"performance" + 0.015*"star" + '
+  '0.010*"well" + 0.010*"actor" + 0.010*"cast" + 0.010*"great" + 0.008*"man" + '
+  '0.007*"year"'),
+ (3,
+  '0.089*"funny" + 0.080*"comedy" + 0.040*"laugh" + 0.031*"humor" + '
+  '0.025*"hilarious" + 0.024*"animation" + 0.024*"joke" + 0.019*"fun" + '
+  '0.016*"animate" + 0.016*"disney"'),
+ (4,
+  '0.012*"scene" + 0.010*"end" + 0.010*"guy" + 0.010*"look" + 0.009*"man" + '
+  '0.008*"time" + 0.008*"back" + 0.008*"thing" + 0.008*"way" + 0.007*"start"'),
+ (5,
+  '0.134*"film" + 0.017*"story" + 0.017*"well" + 0.016*"character" + '
+  '0.013*"scene" + 0.011*"much" + 0.010*"time" + 0.009*"great" + 0.008*"plot" '
+  '+ 0.008*"work"'),
+ (6,
+  '0.054*"show" + 0.030*"great" + 0.029*"love" + 0.023*"series" + '
+  '0.022*"watch" + 0.019*"time" + 0.019*"character" + 0.017*"episode" + '
+  '0.014*"first" + 0.014*"tv"'),
+ (7,
+  '0.028*"murder" + 0.022*"black" + 0.022*"crime" + 0.019*"police" + '
+  '0.018*"cop" + 0.013*"white" + 0.012*"criminal" + 0.011*"detective" + '
+  '0.011*"noir" + 0.011*"prison"'),
+ (8,
+  '0.194*"movie" + 0.028*"watch" + 0.022*"really" + 0.017*"time" + '
+  '0.013*"well" + 0.011*"people" + 0.010*"great" + 0.010*"story" + '
+  '0.010*"much" + 0.009*"thing"'),
+ (9,
+  '0.075*"bad" + 0.017*"act" + 0.014*"ever" + 0.014*"script" + 0.013*"plot" + '
+  '0.012*"terrible" + 0.012*"batman" + 0.011*"waste" + 0.011*"look" + '
+  '0.011*"awful"'),
+ (10,
+  '0.047*"horror" + 0.018*"zombie" + 0.013*"kill" + 0.012*"blood" + '
+  '0.012*"scary" + 0.011*"killer" + 0.011*"gore" + 0.011*"sex" + '
+  '0.010*"violence" + 0.009*"dead"'),
+ (11,
+  '0.030*"earth" + 0.024*"space" + 0.024*"human" + 0.022*"sci_fi" + '
+  '0.019*"monster" + 0.018*"animal" + 0.017*"planet" + 0.016*"creature" + '
+  '0.015*"alien" + 0.014*"computer"'),
+ (12,
+  '0.017*"life" + 0.010*"world" + 0.007*"man" + 0.007*"work" + 0.007*"story" + '
+  '0.006*"become" + 0.006*"human" + 0.005*"character" + 0.005*"time" + '
+  '0.005*"experience"'),
+ (13,
+  '0.026*"family" + 0.024*"young" + 0.021*"life" + 0.021*"love" + '
+  '0.021*"child" + 0.021*"father" + 0.019*"woman" + 0.016*"man" + 0.015*"girl" '
+  '+ 0.014*"friend"'),
+ (14,
+  '0.049*"war" + 0.037*"action" + 0.036*"fight" + 0.021*"hero" + '
+  '0.020*"battle" + 0.018*"japanese" + 0.016*"soldier" + 0.013*"german" + '
+  '0.012*"man" + 0.012*"american"'),
+ (15,
+  '0.051*"dvd" + 0.043*"music" + 0.037*"song" + 0.036*"game" + 0.029*"video" + '
+  '0.022*"release" + 0.021*"version" + 0.015*"voice" + 0.015*"copy" + '
+  '0.014*"band"')]
+END
+
+Perplexity:  17 -11.015495975571977
+Coherence Score:  17 0.42074109985767644
+[(0,
+  '0.021*"people" + 0.015*"world" + 0.011*"life" + 0.009*"american" + '
+  '0.008*"live" + 0.007*"show" + 0.006*"time" + 0.006*"history" + 0.005*"way" '
+  '+ 0.005*"country"'),
+ (1,
+  '0.042*"character" + 0.036*"story" + 0.019*"love" + 0.016*"life" + '
+  '0.012*"feel" + 0.010*"book" + 0.009*"end" + 0.008*"way" + 0.008*"movie" + '
+  '0.007*"well"'),
+ (2,
+  '0.031*"play" + 0.020*"role" + 0.017*"great" + 0.015*"performance" + '
+  '0.014*"star" + 0.012*"actor" + 0.011*"cast" + 0.011*"song" + 0.010*"love" + '
+  '0.009*"well"'),
+ (3,
+  '0.102*"funny" + 0.090*"comedy" + 0.046*"laugh" + 0.036*"humor" + '
+  '0.028*"joke" + 0.028*"hilarious" + 0.018*"fun" + 0.011*"funniest" + '
+  '0.011*"moment" + 0.010*"comic"'),
+ (4,
+  '0.017*"man" + 0.012*"find" + 0.010*"friend" + 0.009*"back" + 0.009*"end" + '
+  '0.009*"father" + 0.009*"woman" + 0.008*"old" + 0.008*"wife" + 0.008*"home"'),
+ (5,
+  '0.141*"film" + 0.017*"well" + 0.013*"time" + 0.012*"great" + 0.010*"much" + '
+  '0.010*"scene" + 0.009*"really" + 0.008*"story" + 0.008*"work" + '
+  '0.008*"watch"'),
+ (6,
+  '0.096*"show" + 0.038*"series" + 0.030*"episode" + 0.029*"watch" + '
+  '0.026*"tv" + 0.023*"time" + 0.020*"great" + 0.017*"first" + 0.016*"love" + '
+  '0.014*"year"'),
+ (7,
+  '0.016*"murder" + 0.011*"crime" + 0.009*"police" + 0.008*"cop" + '
+  '0.007*"case" + 0.007*"man" + 0.007*"noir" + 0.007*"law" + 0.006*"city" + '
+  '0.006*"prison"'),
+ (8,
+  '0.156*"movie" + 0.027*"watch" + 0.023*"really" + 0.016*"time" + 0.015*"bad" '
+  '+ 0.013*"people" + 0.012*"well" + 0.011*"thing" + 0.011*"great" + '
+  '0.009*"ever"'),
+ (9,
+  '0.020*"bad" + 0.016*"film" + 0.012*"script" + 0.012*"plot" + 0.010*"act" + '
+  '0.010*"look" + 0.010*"director" + 0.008*"scene" + 0.008*"camera" + '
+  '0.008*"character"'),
+ (10,
+  '0.043*"sex" + 0.042*"woman" + 0.038*"scene" + 0.037*"thriller" + '
+  '0.028*"girl" + 0.027*"violence" + 0.022*"female" + 0.017*"sexual" + '
+  '0.014*"male" + 0.014*"rape"'),
+ (11,
+  '0.080*"kid" + 0.072*"child" + 0.052*"family" + 0.033*"boy" + 0.028*"school" '
+  '+ 0.026*"adult" + 0.026*"young" + 0.025*"parent" + 0.024*"girl" + '
+  '0.016*"match"'),
+ (12,
+  '0.024*"president" + 0.024*"science" + 0.017*"moon" + 0.017*"washington" + '
+  '0.014*"jone" + 0.014*"redemption" + 0.012*"grasp" + 0.012*"ford" + '
+  '0.012*"alex" + 0.011*"professor"'),
+ (13,
+  '0.066*"black" + 0.060*"white" + 0.045*"animal" + 0.039*"cat" + '
+  '0.038*"earth" + 0.031*"sci_fi" + 0.028*"dog" + 0.026*"space" + '
+  '0.024*"planet" + 0.024*"race"'),
+ (14,
+  '0.017*"action" + 0.017*"fight" + 0.014*"war" + 0.012*"man" + 0.011*"hero" + '
+  '0.010*"scene" + 0.009*"battle" + 0.008*"soldier" + 0.007*"gun" + '
+  '0.007*"kill"'),
+ (15,
+  '0.070*"horror" + 0.025*"zombie" + 0.020*"scary" + 0.017*"blood" + '
+  '0.016*"gore" + 0.014*"kill" + 0.013*"dead" + 0.013*"monster" + '
+  '0.013*"creepy" + 0.013*"ghost"'),
+ (16,
+  '0.065*"version" + 0.059*"dvd" + 0.047*"game" + 0.041*"original" + '
+  '0.028*"video" + 0.026*"animation" + 0.025*"release" + 0.021*"voice" + '
+  '0.018*"disney" + 0.017*"animate"')]
+END
+
+Perplexity:  18 -11.399158629807612
+Coherence Score:  18 0.41704924052497844
+[(0,
+  '0.020*"people" + 0.014*"world" + 0.011*"show" + 0.010*"american" + '
+  '0.008*"life" + 0.007*"live" + 0.006*"man" + 0.006*"war" + 0.006*"year" + '
+  '0.006*"history"'),
+ (1,
+  '0.049*"story" + 0.035*"character" + 0.030*"love" + 0.020*"life" + '
+  '0.015*"book" + 0.014*"feel" + 0.010*"find" + 0.009*"beautiful" + '
+  '0.009*"way" + 0.008*"true"'),
+ (2,
+  '0.023*"song" + 0.023*"music" + 0.014*"dance" + 0.014*"voice" + '
+  '0.013*"animation" + 0.011*"musical" + 0.010*"star" + 0.009*"band" + '
+  '0.009*"play" + 0.008*"year"'),
+ (3,
+  '0.112*"funny" + 0.101*"comedy" + 0.067*"laugh" + 0.039*"humor" + '
+  '0.033*"joke" + 0.032*"hilarious" + 0.019*"fun" + 0.013*"funniest" + '
+  '0.012*"humour" + 0.011*"moment"'),
+ (4,
+  '0.024*"family" + 0.020*"father" + 0.020*"girl" + 0.019*"kid" + '
+  '0.019*"young" + 0.019*"child" + 0.017*"boy" + 0.015*"friend" + 0.014*"old" '
+  '+ 0.013*"son"'),
+ (5,
+  '0.125*"film" + 0.011*"scene" + 0.011*"time" + 0.010*"much" + 0.009*"well" + '
+  '0.009*"work" + 0.008*"character" + 0.008*"director" + 0.007*"plot" + '
+  '0.007*"first"'),
+ (6,
+  '0.144*"show" + 0.063*"series" + 0.048*"episode" + 0.043*"tv" + '
+  '0.027*"watch" + 0.020*"season" + 0.019*"first" + 0.016*"television" + '
+  '0.015*"time" + 0.010*"new"'),
+ (7,
+  '0.019*"man" + 0.010*"murder" + 0.010*"kill" + 0.009*"find" + 0.008*"play" + '
+  '0.007*"turn" + 0.007*"end" + 0.006*"crime" + 0.005*"cop" + 0.005*"police"'),
+ (8,
+  '0.122*"movie" + 0.026*"watch" + 0.020*"really" + 0.019*"bad" + 0.017*"time" '
+  '+ 0.013*"people" + 0.012*"thing" + 0.009*"end" + 0.009*"ever" + '
+  '0.009*"look"'),
+ (9,
+  '0.061*"original" + 0.025*"bad" + 0.020*"sequel" + 0.019*"script" + '
+  '0.016*"batman" + 0.013*"remake" + 0.012*"poor" + 0.011*"cast" + '
+  '0.010*"special_effect" + 0.009*"new"'),
+ (10,
+  '0.044*"great" + 0.044*"movie" + 0.030*"play" + 0.028*"well" + '
+  '0.027*"performance" + 0.026*"actor" + 0.023*"role" + 0.017*"cast" + '
+  '0.014*"give" + 0.013*"act"'),
+ (11,
+  '0.060*"game" + 0.021*"space" + 0.020*"match" + 0.017*"earth" + '
+  '0.016*"human" + 0.016*"alien" + 0.014*"planet" + 0.013*"ship" + 0.012*"bug" '
+  '+ 0.011*"sci_fi"'),
+ (12,
+  '0.021*"wife" + 0.019*"life" + 0.015*"husband" + 0.012*"dream" + 0.010*"man" '
+  '+ 0.010*"death" + 0.008*"become" + 0.007*"apartment" + 0.007*"question" + '
+  '0.006*"aid"'),
+ (13,
+  '0.095*"black" + 0.094*"white" + 0.063*"documentary" + 0.045*"animal" + '
+  '0.028*"joe" + 0.025*"segment" + 0.022*"interview" + 0.018*"footage" + '
+  '0.016*"science" + 0.013*"environment"'),
+ (14,
+  '0.036*"action" + 0.033*"scene" + 0.031*"fight" + 0.017*"battle" + '
+  '0.016*"hero" + 0.016*"war" + 0.014*"guy" + 0.013*"soldier" + '
+  '0.012*"japanese" + 0.011*"gun"'),
+ (15,
+  '0.058*"horror" + 0.021*"zombie" + 0.016*"blood" + 0.016*"scary" + '
+  '0.014*"monster" + 0.014*"gore" + 0.013*"dead" + 0.013*"kill" + '
+  '0.011*"creepy" + 0.011*"house"'),
+ (16,
+  '0.083*"dvd" + 0.050*"version" + 0.049*"video" + 0.041*"release" + '
+  '0.029*"buy" + 0.025*"copy" + 0.017*"find" + 0.016*"available" + '
+  '0.016*"original" + 0.013*"box"'),
+ (17,
+  '0.076*"woman" + 0.055*"sex" + 0.029*"female" + 0.028*"male" + 0.028*"scene" '
+  '+ 0.027*"sexual" + 0.024*"man" + 0.023*"gay" + 0.021*"girl" + '
+  '0.018*"violence"')]
+END
+
+Perplexity:  19 -11.321038929621038
+Coherence Score:  19 0.39235633645194384
+[(0,
+  '0.026*"people" + 0.015*"world" + 0.014*"life" + 0.012*"show" + 0.009*"real" '
+  '+ 0.008*"way" + 0.007*"live" + 0.006*"man" + 0.006*"fact" + '
+  '0.006*"documentary"'),
+ (1,
+  '0.043*"character" + 0.038*"story" + 0.013*"end" + 0.013*"well" + '
+  '0.011*"feel" + 0.010*"much" + 0.010*"book" + 0.010*"plot" + 0.009*"way" + '
+  '0.007*"scene"'),
+ (2,
+  '0.034*"play" + 0.024*"role" + 0.023*"performance" + 0.018*"actor" + '
+  '0.017*"great" + 0.015*"cast" + 0.015*"star" + 0.015*"well" + 0.010*"give" + '
+  '0.007*"work"'),
+ (3,
+  '0.080*"show" + 0.042*"series" + 0.034*"comedy" + 0.033*"funny" + '
+  '0.030*"episode" + 0.019*"tv" + 0.015*"laugh" + 0.014*"watch" + '
+  '0.013*"season" + 0.013*"first"'),
+ (4,
+  '0.032*"girl" + 0.031*"woman" + 0.028*"man" + 0.018*"scene" + 0.016*"guy" + '
+  '0.013*"sex" + 0.012*"look" + 0.008*"car" + 0.008*"end" + 0.007*"play"'),
+ (5,
+  '0.010*"time" + 0.010*"scene" + 0.010*"work" + 0.008*"director" + '
+  '0.007*"style" + 0.007*"set" + 0.006*"sequence" + 0.006*"art" + '
+  '0.005*"beautiful" + 0.005*"cinema"'),
+ (6,
+  '0.074*"dog" + 0.064*"king" + 0.063*"cartoon" + 0.038*"lesson" + 0.033*"bug" '
+  '+ 0.023*"lewis" + 0.016*"matt" + 0.015*"pet" + 0.015*"kim" + '
+  '0.015*"stereotypical"'),
+ (7,
+  '0.010*"man" + 0.010*"time" + 0.007*"back" + 0.007*"first" + 0.007*"find" + '
+  '0.006*"world" + 0.006*"new" + 0.005*"match" + 0.005*"send" + '
+  '0.005*"escape"'),
+ (8,
+  '0.045*"movie" + 0.044*"bad" + 0.013*"watch" + 0.013*"act" + 0.012*"really" '
+  '+ 0.012*"thing" + 0.011*"plot" + 0.011*"time" + 0.009*"nothing" + '
+  '0.009*"ever"'),
+ (9,
+  '0.362*"film" + 0.013*"well" + 0.009*"great" + 0.009*"director" + '
+  '0.009*"time" + 0.008*"watch" + 0.008*"scene" + 0.007*"look" + 0.007*"first" '
+  '+ 0.007*"really"'),
+ (10,
+  '0.049*"horror" + 0.016*"kill" + 0.015*"killer" + 0.013*"thriller" + '
+  '0.013*"scary" + 0.011*"blood" + 0.011*"gore" + 0.010*"murder" + '
+  '0.010*"house" + 0.009*"dark"'),
+ (11,
+  '0.084*"war" + 0.046*"american" + 0.034*"black" + 0.031*"western" + '
+  '0.030*"soldier" + 0.025*"white" + 0.023*"japanese" + 0.022*"german" + '
+  '0.021*"indian" + 0.021*"country"'),
+ (12,
+  '0.048*"murder" + 0.047*"crime" + 0.039*"cop" + 0.039*"police" + '
+  '0.024*"criminal" + 0.023*"detective" + 0.019*"noir" + 0.012*"marty" + '
+  '0.012*"mystery" + 0.012*"case"'),
+ (13,
+  '0.024*"life" + 0.024*"family" + 0.018*"father" + 0.017*"love" + '
+  '0.017*"young" + 0.014*"child" + 0.012*"friend" + 0.012*"live" + 0.012*"son" '
+  '+ 0.011*"mother"'),
+ (14,
+  '0.034*"action" + 0.021*"fight" + 0.019*"scene" + 0.017*"look" + '
+  '0.017*"zombie" + 0.011*"kill" + 0.011*"guy" + 0.010*"hero" + 0.009*"shoot" '
+  '+ 0.008*"dead"'),
+ (15,
+  '0.165*"movie" + 0.033*"watch" + 0.028*"great" + 0.023*"really" + '
+  '0.023*"time" + 0.021*"love" + 0.016*"well" + 0.012*"enjoy" + 0.011*"first" '
+  '+ 0.010*"still"'),
+ (16,
+  '0.088*"dvd" + 0.070*"version" + 0.060*"game" + 0.050*"video" + '
+  '0.044*"original" + 0.037*"release" + 0.020*"buy" + 0.018*"copy" + '
+  '0.017*"available" + 0.011*"remake"'),
+ (17,
+  '0.093*"kid" + 0.059*"song" + 0.049*"music" + 0.034*"dance" + '
+  '0.031*"animation" + 0.028*"musical" + 0.026*"voice" + 0.025*"band" + '
+  '0.021*"disney" + 0.019*"adult"'),
+ (18,
+  '0.086*"french" + 0.035*"italian" + 0.027*"spanish" + 0.027*"france" + '
+  '0.023*"realise" + 0.022*"serial" + 0.020*"mexican" + 0.020*"widow" + '
+  '0.019*"brian" + 0.018*"star_trek"')]
+END
+
+Perplexity:  20 -11.466219946778793
+Coherence Score:  20 0.41766601789063545
+[(0,
+  '0.063*"war" + 0.045*"american" + 0.023*"japanese" + 0.021*"country" + '
+  '0.021*"soldier" + 0.017*"german" + 0.015*"indian" + 0.014*"history" + '
+  '0.014*"english" + 0.013*"battle"'),
+ (1,
+  '0.038*"love" + 0.036*"life" + 0.031*"story" + 0.023*"character" + '
+  '0.019*"family" + 0.013*"young" + 0.012*"father" + 0.011*"book" + '
+  '0.010*"relationship" + 0.010*"beautiful"'),
+ (2,
+  '0.034*"play" + 0.024*"role" + 0.021*"performance" + 0.019*"great" + '
+  '0.018*"actor" + 0.016*"star" + 0.015*"cast" + 0.014*"well" + 0.009*"give" + '
+  '0.009*"year"'),
+ (3,
+  '0.097*"funny" + 0.094*"comedy" + 0.058*"laugh" + 0.034*"humor" + '
+  '0.028*"joke" + 0.028*"hilarious" + 0.018*"fun" + 0.012*"funniest" + '
+  '0.010*"moment" + 0.009*"comic"'),
+ (4,
+  '0.015*"man" + 0.013*"find" + 0.012*"end" + 0.011*"woman" + 0.010*"girl" + '
+  '0.010*"friend" + 0.010*"old" + 0.009*"house" + 0.009*"back" + 0.009*"home"'),
+ (5,
+  '0.109*"film" + 0.014*"character" + 0.012*"story" + 0.011*"well" + '
+  '0.011*"scene" + 0.009*"much" + 0.009*"time" + 0.008*"work" + '
+  '0.007*"director" + 0.007*"plot"'),
+ (6,
+  '0.076*"people" + 0.038*"black" + 0.035*"white" + 0.027*"show" + '
+  '0.016*"real" + 0.015*"comment" + 0.012*"talk" + 0.012*"gay" + '
+  '0.010*"review" + 0.009*"critic"'),
+ (7,
+  '0.034*"murder" + 0.027*"crime" + 0.017*"police" + 0.013*"criminal" + '
+  '0.013*"prison" + 0.012*"detective" + 0.012*"noir" + 0.011*"case" + '
+  '0.010*"andy" + 0.010*"cop"'),
+ (8,
+  '0.047*"bad" + 0.036*"movie" + 0.014*"watch" + 0.013*"act" + 0.013*"film" + '
+  '0.012*"ever" + 0.011*"thing" + 0.011*"look" + 0.011*"really" + '
+  '0.010*"plot"'),
+ (9,
+  '0.171*"show" + 0.106*"series" + 0.076*"episode" + 0.045*"tv" + '
+  '0.031*"season" + 0.021*"first" + 0.021*"television" + 0.016*"watch" + '
+  '0.015*"new" + 0.013*"character"'),
+ (10,
+  '0.108*"kid" + 0.049*"child" + 0.047*"girl" + 0.043*"sex" + 0.037*"school" + '
+  '0.036*"adult" + 0.028*"boy" + 0.021*"young" + 0.019*"parent" + '
+  '0.017*"teenager"'),
+ (11,
+  '0.017*"sci_fi" + 0.017*"space" + 0.017*"human" + 0.016*"earth" + '
+  '0.015*"monster" + 0.015*"animal" + 0.013*"alien" + 0.013*"creature" + '
+  '0.012*"planet" + 0.012*"charlie"'),
+ (12,
+  '0.048*"tom" + 0.020*"bully" + 0.018*"cheat" + 0.018*"cook" + 0.017*"homer" '
+  '+ 0.016*"restaurant" + 0.015*"florida" + 0.015*"johnson" + 0.014*"domino" + '
+  '0.014*"nick"'),
+ (13,
+  '0.014*"world" + 0.009*"life" + 0.009*"people" + 0.008*"man" + 0.007*"time" '
+  '+ 0.007*"way" + 0.006*"point" + 0.006*"become" + 0.006*"question" + '
+  '0.005*"human"'),
+ (14,
+  '0.030*"action" + 0.030*"scene" + 0.020*"fight" + 0.018*"guy" + 0.015*"kill" '
+  '+ 0.014*"hero" + 0.013*"man" + 0.013*"shoot" + 0.011*"car" + 0.008*"gun"'),
+ (15,
+  '0.064*"horror" + 0.021*"zombie" + 0.018*"scary" + 0.016*"killer" + '
+  '0.016*"blood" + 0.015*"gore" + 0.014*"kill" + 0.013*"dead" + 0.012*"creepy" '
+  '+ 0.012*"ghost"'),
+ (16,
+  '0.133*"movie" + 0.029*"watch" + 0.023*"really" + 0.023*"great" + '
+  '0.020*"time" + 0.017*"well" + 0.013*"love" + 0.013*"story" + 0.011*"first" '
+  '+ 0.011*"much"'),
+ (17,
+  '0.050*"music" + 0.045*"song" + 0.030*"voice" + 0.028*"dance" + 0.028*"dvd" '
+  '+ 0.027*"version" + 0.025*"animation" + 0.021*"musical" + 0.019*"video" + '
+  '0.018*"band"'),
+ (18,
+  '0.062*"documentary" + 0.042*"city" + 0.021*"youth" + 0.017*"aid" + '
+  '0.017*"segment" + 0.014*"political" + 0.013*"interview" + 0.013*"footage" + '
+  '0.011*"canadian" + 0.010*"urban"'),
+ (19,
+  '0.114*"game" + 0.067*"match" + 0.031*"sport" + 0.018*"team" + '
+  '0.017*"superman" + 0.016*"plane" + 0.015*"win" + 0.014*"bud" + '
+  '0.012*"player" + 0.012*"oil"')]
+END
